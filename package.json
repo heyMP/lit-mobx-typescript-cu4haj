@@ -6,6 +6,6 @@
   "dependencies": {
     "@adobe/lit-mobx": "^2.0.0",
     "lit": "^2.0.2",
-    "mobx": "^6.3.8"
+    "mobx": "^5.0.0"
   }
 }
